@@ -61,6 +61,9 @@ Contains ball-by-ball delivery data:
 
 ## 🌐 Interactive Visualizations
 
+> 🖼️ You can **view the complete interactive notebook with all Plotly visualizations** directly here:
+> 👉 **[View Full Notebook with Interactive Plots](https://prerak20code.github.io/IPL-Data-analsysis/ipl_analysis/IPL_Player_EDA_Notebook.html)**
+
 ### ✅ 1. Data Cleaning & Preparation
 
 * Removed duplicates and missing values
@@ -71,7 +74,7 @@ Contains ball-by-ball delivery data:
 
 * **Top 10 run scorers** (overall)
 * **Top batsmen by team** (with dropdown selector)
-* **Top batsmen by season**(with dropdown selector for season)
+* **Top batsmen by season** (with dropdown selector for season)
 * **Top batsmen by season & team** (team-season selector)
 * **Top batsmen by venue**
 
@@ -79,7 +82,7 @@ Contains ball-by-ball delivery data:
 
 * **Top 10 wicket takers** (overall)
 * **Top bowlers by team** (dropdown)
-* **Top bowler by season**(with dropdown selector for season)
+* **Top bowler by season** (with dropdown selector for season)
 * **Top bowlers by season & team**
 * **Top bowlers by venue**
 
@@ -109,13 +112,16 @@ Contains ball-by-ball delivery data:
 
 ```bash
 # Clone the repo
-https://github.com/<your-username>/ipl-eda-analysis.git
+https://github.com/prerak20code/IPL-Data-analsysis.git
 
 # Open Jupyter Notebook
 jupyter notebook
 
-# Run the notebook: IPL_Player_Performance_Analysis.ipynb
+# Run the notebook: IPL_Player_EDA_Notebook.ipynb
 ```
+
+Alternatively, **open the hosted HTML version** with interactive charts:
+👉 [IPL\_Player\_EDA\_Notebook.html](https://prerak20code.github.io/IPL-Data-analsysis/ipl_analysis/IPL_Player_EDA_Notebook.html)
 
 ---
 
@@ -138,7 +144,6 @@ jupyter notebook
 
 Made with passion by **Prerak Nagpal**
 [LinkedIn](https://www.linkedin.com/in/prerak-nagpal-1815ba24a/) | [GitHub](https://github.com/prerak20code) | [LeetCode](https://leetcode.com/u/prerak1234/)
-colab link for the notebook:https://github.com/prerak20code/IPL-Data-analsysis/tree/main
 
 ---
 
