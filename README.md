@@ -138,6 +138,7 @@ jupyter notebook
 
 Made with passion by **Prerak Nagpal**
 [LinkedIn](https://www.linkedin.com/in/prerak-nagpal-1815ba24a/) | [GitHub](https://github.com/prerak20code) | [LeetCode](https://leetcode.com/u/prerak1234/)
+colab link for the notebook:https://github.com/prerak20code/IPL-Data-analsysis/tree/main
 
 ---
 
